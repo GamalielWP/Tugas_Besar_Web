@@ -5,6 +5,6 @@ Si OPPa adalah web yang diperuntukan untuk proses pendaftaran pasien secara onli
 <a href="https://sioppa.000webhostapp.com/">Klik untuk menuju Web</a>
 
 nb:
-password form admin - 18104010
-                    - 18104033
+password form admin :<br>- 18104010<br>
+                    - 18104033<br>
                     - 18104034
