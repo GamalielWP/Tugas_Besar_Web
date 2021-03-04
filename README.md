@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zOnN2Z2pzPSJodHRwOi8vc3ZnanMuY29tL3N2Z2pzIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTQyMC45NDIgMTA2YzAtNTcuODkxLTQ3LjEwOS0xMDYtMTA1LTEwNi0yMi41NTkgMC00My42MzggOS42NTMtNjAgMjcuMDI2LTE2LjM2My0xNy4zNzMtMzcuNDQyLTI3LjAyNi02MC0yNy4wMjYtNTcuODkxIDAtMTA1IDQ4LjEwOS0xMDUgMTA2IDAgNTguMjI4IDQyLjcyOSA4OC4yODYgOTIuMjEyIDEyMy4xMDUgMjAuNDA1IDE0LjM1NSA0MS41MTQgMjkuMjA5IDYyLjk1OSA0Ny44MTNsOS44MTQgOC41MjUgOS44MjktOC41MTFjMjQuMjQzLTIwLjk3NyA0Ny4zLTM3LjM5NyA2Ny42MzItNTEuODg1IDQ4LjkxMS0zNC44MTggODcuNTU0LTYyLjMyOCA4Ny41NTQtMTE5LjA0N3ptLTEyMCA0NWgtMzB2MzBoLTMwdi0zMGgtMzB2LTMwaDMwdi0zMGgzMHYzMGgzMHoiIGZpbGw9IiNmZmZmZmYiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiIHN0eWxlPSIiPjwvcGF0aD48cGF0aCBkPSJtNDkzLjk0MiAxMzcuMTk5Yy0zMC42MDEgMC0zOC41IDE0Mi4yLTM5LjEwMSAxNDUuMjAxLTMuMDQ3IDIwLjgzNi0xNy43MjUgNTEuNjgtNDIuNTEzIDcwLjI1MmwtNjQuOTcxIDQ3LjE3My0xNy45ODgtMjQuMDIzIDY0Ljk3MS00Ny4xNTljMjUuNzM3LTE5LjI5NiAzNy40NjctNTIuMjQ0IDUuMzAxLTUyLjI0NC0yOC44MDggMC04Mi42NTcgMzMuMzUzLTk4LjYyMSA0Ni41ODQtMTkuMDYzIDE1LjgtMzAuMDc5IDM5LjI3Ni0zMC4wNzkgNjQuMDM2djEyNC45ODFoOTBjMC0xNC40MDEgNy44LTMwLjEwMSAxOS43OTktNDUuMTAxIDEyLjYwMS0xNi41IDMwLjYwMS0zMy4zIDQ5LjItNTAuNCAzNS40LTMzLjMgNzIuMS02Ny41IDc2LjkwMS0xMDIuMjk5IDIuODUtMjMuMzc2IDUuMjE3LTYzLjQ2OCA1LjA5OS05OS4yLS4xMy00MC4wMTUtMy41Mi03Ni41MDgtMTcuOTk4LTc3LjgwMXoiIGZpbGw9IiNmZmZmZmYiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiIHN0eWxlPSIiPjwvcGF0aD48cGF0aCBkPSJtMjA3LjM0MiAzMjAuMmMtNDIuMzAxLTI5LjEwMS03NC4zOTktNDMuODAxLTk1LjA5OS00My44MDEtMzIuMTY2IDAtMjAuNDM2IDMyLjk0OCA1LjMwMSA1Mi4yNDRsNjQuOTcxIDQ3LjE1OS0xNy45ODggMjQuMDIzLTY0Ljk3MS00Ny4xNzNjLTI0Ljc5LTE4LjU3Mi0zOS40NjgtNDkuNDE2LTQyLjUxNS03MC4yNTItLjYwMS0zLjAwMS04LjUtMTQ1LjIwMS0zOS4xMDEtMTQ1LjIwMS0xNi44IDEuNS0xOC42IDUwLjQtMTcuNjk5IDk3LjIuNjAxIDM0LjIgMy4zIDY3LjUgNC43OTkgNzkuODAxIDQuODAxIDM0Ljc5OSA0MS41MDEgNjkgNzYuOTAxIDEwMi4yOTkgMTguNiAxNy4xIDM2LjU5OSAzMy45IDQ5LjIgNTAuNCAxMS45OTkgMTUgMTkuNzk5IDMwLjcgMTkuNzk5IDQ1LjEwMWg5MHYtMTI0LjM4MmMuMDAyLTI2LjUwMS0xMi40MzktNTEuNDY0LTMzLjU5OC02Ny40MTh6IiBmaWxsPSIjZmZmZmZmIiBkYXRhLW9yaWdpbmFsPSIjMDAwMDAwIiBzdHlsZT0iIj48L3BhdGg+PC9nPjwvZz48L3N2Zz4=" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -7,55 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## Tentang Si OPPa
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Si OPPa adalah web yang diperuntukan untuk proses pendaftaran pasien secara online agar tidak terkumpul di satu titik dan tidak menimbulkan kerumunan pada ruang tunggu rumah sakit atau puskesmas.
